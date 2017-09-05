@@ -1,6 +1,14 @@
 body {
-  margin: 20px;
+  margin: 0;
 }
+.yellowback {
+  background-color: #ffbc04;
+}
+
+.section {
+  background-color: #F5F5F5;
+}
+
 
 html {
   font-size: 16px;
@@ -21,11 +29,20 @@ h3 {
   font-size: 1.85em;
   }
 
+.manchester {
+  padding-top: 35px;
+}
+
+.img-center {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
 
 span {
   font-family: Titillium Web, sans-serif;
   font-weight: 700i;
-  color:#ffbc04;
+  color:#d9f9fb;
 }
 
 .footer {
@@ -44,7 +61,7 @@ p {
 }
 
 .background {
-   margin-top: 0.97em;
+  padding-top: 0.97em;
 }
 
 .intro {
@@ -64,13 +81,8 @@ p {
 }
 
 .extra {
-  color: #9c8665;
-  
+  color: #d9f9fb; 
 }
-
-.thick-green-border {
-    
-  }
 
 #bee1 {
   border-color: #d9f9fb;
